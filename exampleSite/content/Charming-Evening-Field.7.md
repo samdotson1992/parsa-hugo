@@ -4,8 +4,7 @@ date: 2021-01-16T05:00:00+00:00
 description: This is meta description
 type: post
 image: "/images/untitled-21.jpg"
-categories:
-- Food
+categories: []
 tags:
 - Photos
 
